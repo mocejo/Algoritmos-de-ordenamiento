@@ -141,6 +141,7 @@ El **Ordenamiento Rápido** es un algoritmo de ordenamiento eficiente, es uno de
 Esta función organiza los elementos alrededor del pivote y devuelve su posición final.
 
 **MONTICULOS:**
+
 El **Ordenamiento por Montículos** es un algoritmo de ordenamiento basado en la estructura de datos conocida como **montículo binario máximo** (Max-Heap). Un montículo binario máximo es un árbol binario completo donde el valor de cada nodo es mayor o igual que los valores de sus hijos. Este algoritmo utiliza el montículo para extraer repetidamente el elemento máximo y colocarlo en su posición correcta en el arreglo.
 
 #### **Pasos del Algoritmo:**
