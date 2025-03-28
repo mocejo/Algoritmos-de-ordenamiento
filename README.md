@@ -19,11 +19,16 @@ GCC (GNU Compiler Collection)
 
 # Proyecto 
 
-```Algoritmos_Ordenamiento.cpp``` es el archivo fuente en el que se realiza todo el proceso con los algoritmos, en este archivo se encuentra tanto main como todas las funciones utilizadas que hacen posible los archivos CSV.  
+```Algoritmos_Ordenamiento.cpp``` es el archivo fuente en el que se realiza todo el proceso con los algoritmos, en este archivo se encuentra tanto main como todas las funciones utilizadas que hacen posible los archivos CSV.    
+
 ```Archivos CSV``` son todos los archivos generados por los algoritmos que contienen los tiempos de estos.  
 
 # Descripción de los algoritmos
-# Gráficas
+# Gráfica
+En la siguiente gráfica podemos ver el rendimiento que ha tenido cada algoritmo con cada tamaño de elementos: 
+
+![Algoritmos](Grafica1.png)
+
 # Análisis 
 # Conclusiones 
 
